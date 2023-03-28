@@ -39,5 +39,10 @@
 
 [Merlin](https://chrome.google.com/webstore/detail/merlin-chatgpt-assistant/camppjleccjaphfdbohjdohecfnoikec/related?utm_source=InfinityNewtab): Chrome/Edge插件，除了支持搜索时对话，还能帮助总结Youtube、Blog摘要，协助回复邮件等“助理”工作
 
+...
+
+## GPT国内
+...
+
 
 
