@@ -32,8 +32,12 @@
 
 2023-03-21: [微软宣布在Azure OpenAI Service中引入GPT-4](https://azure.microsoft.com/zh-cn/blog/introducing-gpt4-in-azure-openai-service/)
 
+2023-03-23: [OpenAI宣布ChatGPT支持插件，大幅扩展ChatGPT能力](https://openai.com/blog/chatgpt-plugins)
+
 ## GPT项目
 [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf): Chrome/Edge插件，支持百度谷歌右侧栏显示对话，类似与NewBing效果
 
 [Merlin](https://chrome.google.com/webstore/detail/merlin-chatgpt-assistant/camppjleccjaphfdbohjdohecfnoikec/related?utm_source=InfinityNewtab): Chrome/Edge插件，除了支持搜索时对话，还能帮助总结Youtube、Blog摘要，协助回复邮件等“助理”工作
+
+
 
