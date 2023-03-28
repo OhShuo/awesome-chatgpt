@@ -9,7 +9,7 @@
 2019-02-14: [OpenAI发布GPT-2模型，15亿参数。](https://openai.com/research/better-language-models)
 论文：[Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 
-2020-05-28：[OpenAI发布GPT-3模型，1750亿参数。](https://openai.com/research/language-models-are-few-shot-learners)
+2020-05-28: [OpenAI发布GPT-3模型，1750亿参数。](https://openai.com/research/language-models-are-few-shot-learners)
 论文：[Language Models are Few-Shot Learners
 ](https://arxiv.org/abs/2005.14165)
 
@@ -21,5 +21,14 @@
 
 2023-01-09: [OpenAI宣布对ChatGPT进行第二次更新](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
+2023-01-30: [ChatGPT第三次更新，在此提升了答案真实性的同时，还提升了数学能力.](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+
 2023-02-08: [微软正式发布引入ChatGPT技术的新版Bing搜索引擎和Edge浏览器](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/)
+
+2023-03-04: [OpenAI发布GPT-4模型，](https://openai.com/research/gpt-4)
+论文：[GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)
+
+2023-03-16: [微软公布Microsoff 365 Copilot，将GPT-4全面接入微软Office全家桶](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/?ocid=usoc_TWITTER_M365_spl100003915726873)
+
+2023-03-21: [微软宣布在Azure OpenAI Service中引入GPT-4](https://azure.microsoft.com/zh-cn/blog/introducing-gpt4-in-azure-openai-service/)
 
